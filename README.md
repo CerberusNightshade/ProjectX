@@ -1,2 +1,3 @@
-# ProjectX
-This is a demo project
+# maven-project
+
+Simple Maven Project
